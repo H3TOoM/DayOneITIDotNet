@@ -1,0 +1,49 @@
+@model List<MVC_Trainning.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="text-primary">Employee List</h2>
+        <a class="btn btn-success" href="/Employee/Add">+ Add New Employee</a>
+    </div>
+
+    <table class="table table-bordered table-hover table-striped shadow-sm rounded">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Address</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var emp in Model)
+            {
+                <tr>
+                    <td>@emp.Id</td>
+                    <td>@emp.Name</td>
+                    <td>@emp.Age</td>
+                    <td>@emp.Address</td>
+                    <td class="d-flex gap-2">
+                        <form asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@emp.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+
+                        <form asp-action="Edit" method="post" class="d-flex gap-1">
+                            <input type="hidden" name="Id" value="@emp.Id" />
+                            <input type="text" name="Name" value="@emp.Name" class="form-control form-control-sm" />
+                            <input type="number" name="Age" value="@emp.Age" class="form-control form-control-sm" />
+                            <input type="text" name="Address" value="@emp.Address" class="form-control form-control-sm" />
+                            <button type="submit" class="btn btn-primary btn-sm">Edit</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

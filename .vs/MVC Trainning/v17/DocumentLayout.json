@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC Trainning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|d:\\mvc trainning\\mvc trainning\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|solutionrelative:mvc trainning\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|d:\\mvc trainning\\mvc trainning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|solutionrelative:mvc trainning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|d:\\mvc trainning\\mvc trainning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|solutionrelative:mvc trainning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|d:\\mvc trainning\\mvc trainning\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|solutionrelative:mvc trainning\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|d:\\mvc trainning\\mvc trainning\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|solutionrelative:mvc trainning\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|d:\\mvc trainning\\mvc trainning\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112AE80F-0823-44D5-82ED-C06B5BFAF4B3}|MVC Trainning\\MVC Trainning.csproj|solutionrelative:mvc trainning\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\MVC Trainning\\MVC Trainning\\.gitignore",
+              "RelativeDocumentMoniker": "MVC Trainning\\.gitignore",
+              "ToolTip": "D:\\MVC Trainning\\MVC Trainning\\.gitignore",
+              "RelativeToolTip": "MVC Trainning\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2025-07-19T15:16:39.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVC Trainning\\MVC Trainning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC Trainning\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVC Trainning\\MVC Trainning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC Trainning\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T15:07:00.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVC Trainning\\MVC Trainning\\Program.cs",
+              "RelativeDocumentMoniker": "MVC Trainning\\Program.cs",
+              "ToolTip": "D:\\MVC Trainning\\MVC Trainning\\Program.cs",
+              "RelativeToolTip": "MVC Trainning\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:04:33.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC Trainning\\MVC Trainning\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC Trainning\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\MVC Trainning\\MVC Trainning\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVC Trainning\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T14:49:17.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MVC Trainning\\MVC Trainning\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC Trainning\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "D:\\MVC Trainning\\MVC Trainning\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "MVC Trainning\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T14:37:53.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\MVC Trainning\\MVC Trainning\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVC Trainning\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\MVC Trainning\\MVC Trainning\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVC Trainning\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:58:38.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

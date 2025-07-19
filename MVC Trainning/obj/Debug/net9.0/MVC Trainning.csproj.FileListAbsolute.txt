@@ -1,0 +1,98 @@
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\appsettings.Development.json
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\appsettings.json
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\MVC Trainning.staticwebassets.runtime.json
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\MVC Trainning.staticwebassets.endpoints.json
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\MVC Trainning.exe
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\MVC Trainning.deps.json
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\MVC Trainning.runtimeconfig.json
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\MVC Trainning.dll
+D:\MVC Trainning\MVC Trainning\bin\Debug\net9.0\MVC Trainning.pdb
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.AssemblyInfoInputs.cache
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.AssemblyInfo.cs
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.csproj.CoreCompileInputs.cache
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.RazorAssemblyInfo.cache
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.RazorAssemblyInfo.cs
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\scopedcss\bundle\MVC Trainning.styles.css
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\scopedcss\projectbundle\MVC Trainning.bundle.scp.css
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\azpbkishvt-b9sayid5wm.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\qq6a67qyjq-61n19gt1b8.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\gxn87ufypa-xtxxf3hu2r.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\7ecm8ow97f-bqjiyaj88i.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\lpp1o960xb-c2jlpeoesf.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\138lmo993a-erw9l3u2r3.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\q49y4knnnr-aexeepp0ev.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\4bbui9t57l-d7shbmvgxk.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\3i8y9owhpc-ausgxo2sd3.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\l2w5td1vcu-k8d9w2qqmf.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\t7w15m5afg-cosvhxvwiu.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\8q3rlrh18g-ub07r2b239.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\qhq8d6z09e-fvhpjtyr6v.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\k11xm66645-b7pk76d08c.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\8c4ekh1gd9-fsbi9cje9m.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\l5pxi0dw06-rzd6atqjts.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\tfakt6798k-ee0r1s7dh0.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\trt0juz1v6-dxx9fxp4il.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\6q58drjhkk-jd9uben2k1.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\39myrizghm-khv3u5hwcm.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\9k4s7basea-r4e9w2rdcm.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\ogbnpvn18x-lcd1t2u6c8.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\68yaplnyie-c2oey78nd0.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\59ydmno722-tdbxkamptv.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\jkb4w34jc0-j5mq2jizvt.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\kd0wdhe51w-06098lyss8.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\rg96z48iuv-nvvlpmu67g.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\6if5u6vbge-s35ty4nyc5.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\961dscsfzi-pj5nd1wqec.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\6zwz3zinn4-46ein0sx1k.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\v5gub9bhdq-v0zj4ognzu.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\yy0owgmswj-37tfw0ft22.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\koya05gbpo-hrwsygsryq.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\nqwwfs8hzu-pk9g2wxc8p.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\ysa1c0lvdf-ft3s53vfgj.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\pc3z7z5dqo-6cfz1n2cew.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\w6y3azhoj0-6pdc2jztkx.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\gf57s1pblp-493y06b0oq.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\29r8ztsf55-iovd86k7lj.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\92hj2n4ff9-vr1egmr9el.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\ubdk25jiik-kbrnm935zg.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\hebig2kmd8-jj8uyg4cgr.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\wbp643nyn7-y7v9cxd14o.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\09hcr0ui4l-notf2xhcfb.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\3785ttv0lw-h1s4sie4z3.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\tvj0h6h3dt-63fj8s7r0e.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\n7dx8248r5-0j3bgjxly4.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\7fudh2efxu-47otxtyo56.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\n6oqhjag0d-4v8eqarkd7.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\cbggbg1sxe-356vix0kms.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\3njfa94hyw-83jwlth58m.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\azlrffcjlv-mrlpezrjn3.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\ts4aiw2wls-lzl9nlhx6b.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\fq3xxuxbxy-ag7o75518u.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\2ucp5eu9mw-x0q3zqp4vz.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\rziib0rbf9-0i3buxo5is.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\rtgfswxy30-o1o13a6vjx.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\sxdj88cpr1-ttgo8qnofa.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\8f8l57klj6-2z0ns9nrw6.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\dylrvvg0cd-muycvpuwrr.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\gsdt1qmvuf-87fc7y1x7t.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\89s27ayuov-mlv21k5csn.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\jqmif3eces-l3kcg8r3f0.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\9xdpinaeqv-l3kcg8r3f0.gz
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.build.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.development.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.MVC Trainning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.MVC Trainning.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.build.MVC Trainning.props
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MVC Trainning.props
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MVC Trainning.props
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.pack.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.dll
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\refint\MVC Trainning.dll
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.pdb
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.genruntimeconfig.cache
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\ref\MVC Trainning.dll
