@@ -84,15 +84,15 @@ D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\compressed\9xdpinaeqv-l3kcg8r3f0
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.build.json
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.development.json
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.MVC Trainning.Microsoft.AspNetCore.StaticWebAssets.props
-D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.MVC Trainning.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.build.MVC Trainning.props
-D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MVC Trainning.props
-D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MVC Trainning.props
-D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.pack.json
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.dll
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\refint\MVC Trainning.dll
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.pdb
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.genruntimeconfig.cache
 D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\ref\MVC Trainning.dll
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\MVC Trainning.sourcelink.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\MVC Trainning\MVC Trainning\obj\Debug\net9.0\staticwebassets.build.json.cache
